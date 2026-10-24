@@ -1,0 +1,26 @@
+{
+ "anytube": 1,
+ "title": "экспирименты",
+ "file": "name_mp4.mp4",
+ "duration": 108.135,
+ "parts": [
+  {
+   "repo": "anytubevideo_name_mp4",
+   "path": "name_mp4.mp4",
+   "size": 80930938,
+   "duration": 108.135,
+   "lfs": false
+  }
+ ],
+ "description": {
+  "chars": 16381,
+  "chunks": [
+   {
+    "repo": "anytubevideo_name_mp4",
+    "path": "description.part0001.txt",
+    "chars": 16381,
+    "size": 16894
+   }
+  ]
+ }
+}
